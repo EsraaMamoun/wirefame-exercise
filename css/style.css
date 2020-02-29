@@ -5,7 +5,6 @@ body{
 header{
     display: inline-block;
     position: relative;
-    /* background-color: rgb(66, 65, 65); */
     padding: 20px 10px 10px 10px;
 }
 header img{
@@ -25,8 +24,11 @@ li{
 section img{
     padding: 10px 10px 10px 10px;
 }
-article img{
-    padding: 10px 10px 10px 10px;
+article{
+    padding: 10px 0px 10px 10px;
+}
+#centerImg{
+    padding: 0px 26px 0px 25px;
 }
 p{
     padding-bottom: 20px;
@@ -48,7 +50,7 @@ span{
 }
 
 footer{
-    padding: 80px 70% 0px 0px;
+    padding: 100px 70% 0px 0px;
     background-color: lightgrey;
-    margin: 20px 10px 20px 10px;
+    margin: 10px 10px 20px 10px;
 }
