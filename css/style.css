@@ -1,11 +1,9 @@
-body{
-    padding: 0px 190px 0px 190px;
-}
-
 header{
     display: inline-block;
     position: relative;
-    padding: 20px 10px 10px 10px;
+    padding: 10px 200px 10px 200px;
+    background-color: rgb(73, 72, 72);
+    width: 71%;
 }
 header img{
     padding-right: 40px;
@@ -22,20 +20,20 @@ li{
 }
 
 section img{
-    padding: 10px 10px 10px 10px;
+    padding: 30px 200px 20px 200px;
 }
 article{
-    padding: 10px 0px 10px 10px;
+    padding: 10px 185px 10px 180px;
 }
-#centerImg{
-    padding: 0px 26px 0px 25px;
+article img{
+    padding: 0px 5.2px 0px 20px;
 }
 p{
-    padding-bottom: 20px;
+    padding: 20px 190px 20px 200px;
 }
 p img {
     float: left;
-    padding: 10px 30px 0px 10px;
+    padding: 0px 30px 0px 0px;
 }
 
 div{
@@ -43,14 +41,16 @@ div{
 }
 
 span{
-    background-color: lightgrey;
+    background-color: black;
     padding: 10px 20px 10px 20px;
-    position: relative;
-    bottom: 8px;
+    position: absolute;
+    color: white;
+    float: left;
+    bottom: -773px;
 }
 
 footer{
-    padding: 100px 70% 0px 0px;
-    background-color: lightgrey;
-    margin: 10px 10px 20px 10px;
+    padding: 0px 0px 100px 0px;
+    margin-top: 20px;
+    background-color: rgb(73, 72, 72);
 }
