@@ -43,10 +43,10 @@ div{
 span{
     background-color: black;
     padding: 10px 20px 10px 20px;
-    position: absolute;
+    position: relative;
     color: white;
     float: left;
-    bottom: -773px;
+    bottom: 32px;
 }
 
 footer{
